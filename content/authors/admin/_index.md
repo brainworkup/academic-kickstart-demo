@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Joey Trampush, PhD
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Joey
+last_name: Trampush
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Psychiatry and Behavioral Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: USC
+    url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -49,7 +49,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/brainworkup
     label: Follow me on Twitter
     display:
       header: true
@@ -58,7 +58,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/brainworkup
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
